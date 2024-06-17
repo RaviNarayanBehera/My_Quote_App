@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../../QuoteModel.dart';
+import '../../utils/QuoteModel.dart';
 import '../../utils/quotes_lists.dart';
 
 

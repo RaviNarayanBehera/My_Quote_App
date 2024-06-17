@@ -8,7 +8,7 @@ import 'package:flutter_wallpaper_manager/flutter_wallpaper_manager.dart';
 import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:share_extend/share_extend.dart';
-import '../../QuoteModel.dart';
+import '../../utils/QuoteModel.dart';
 import '../../utils/colorList.dart';
 import '../../utils/quotes_lists.dart';
 import 'list_screen.dart';
