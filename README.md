@@ -13,3 +13,8 @@
 
   <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/f0152558-5533-4cae-9c22-2db03ed09cba" height=65%  width=22%>
 </h1>
+
+<div align="center">
+<video src = "https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/842473fb-59e4-44d5-87e2-ec9694eecbbc">
+
+
