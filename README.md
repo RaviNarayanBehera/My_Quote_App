@@ -1,16 +1,15 @@
 # my_quote_app
 
-A new Flutter project.
+<h1 align = "center">
+  <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/6cfb3d01-4e42-4df6-8bcc-5c21e3ee45ca" height=65%  width=22%>
 
-## Getting Started
+  <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/61acf463-d49e-48ca-b25e-7c2ac56cbb7a" height=65%  width=22%>
 
-This project is a starting point for a Flutter application.
+  <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/714dcf46-73b5-46f7-9a43-0dc0e97df390" height=65%  width=22%>
+</h1>
 
-A few resources to get you started if this is your first Flutter project:
+<h1 align = "center">
+  <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/10674d52-6729-4505-9daf-ada86b509231" height=65%  width=22%>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="https://github.com/RaviNarayanBehera/my_quote_app/assets/148530184/f0152558-5533-4cae-9c22-2db03ed09cba" height=65%  width=22%>
+</h1>
